@@ -1173,7 +1173,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Voc\xEA acertou 20 de 20"
+  m_Text: ALTEREI O GIT
 --- !u!222 &1473573970
 CanvasRenderer:
   m_ObjectHideFlags: 0
