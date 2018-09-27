@@ -12,9 +12,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-26T21:13:20.056-03:00
+  lastUpdatedAtString: 2018-09-26T21:22:17.682-03:00
   initializedAtString: 2018-09-26T20:59:21.017-03:00
   entries:
+  - path: Library/assetDatabase3
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -36,12 +48,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     status: 3
     staged: 0
