@@ -12,6 +12,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-26T21:06:27.089-03:00
+  lastUpdatedAtString: 2018-09-26T21:13:20.056-03:00
   initializedAtString: 2018-09-26T20:59:21.017-03:00
-  entries: []
+  entries:
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0

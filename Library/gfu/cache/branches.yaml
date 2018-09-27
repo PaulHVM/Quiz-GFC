@@ -12,18 +12,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-09-26T20:59:39.882-03:00
+  lastUpdatedAtString: 2018-09-26T21:12:43.333-03:00
   initializedAtString: 2018-09-26T20:59:39.876-03:00
-  localBranches: []
-  remoteBranches: []
-  remotes: []
+  localBranches:
+  - name: master
+    tracking: 
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/PaulHVM/Quiz-GFC.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/PaulHVM/Quiz-GFC.git
+        trackingBranch: 
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/PaulHVM/Quiz-GFC.git
