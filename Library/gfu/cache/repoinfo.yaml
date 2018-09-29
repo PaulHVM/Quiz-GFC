@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-09-29T12:41:34.460-03:00
+  lastUpdatedAtString: 2018-09-29T12:43:59.549-03:00
   initializedAtString: 2018-09-29T12:41:09.200-03:00
   currentGitRemote:
     name: origin
@@ -24,14 +24,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/PaulHVM/Quiz-GFC.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/PaulHVM/Quiz-GFC.git
-  currentHead: 6abe808
+  currentHead: 52d35a2
