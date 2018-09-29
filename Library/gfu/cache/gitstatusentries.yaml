@@ -12,9 +12,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-26T21:22:17.682-03:00
-  initializedAtString: 2018-09-26T20:59:21.017-03:00
+  lastUpdatedAtString: 2018-09-29T12:42:08.241-03:00
+  initializedAtString: 2018-09-29T12:41:09.293-03:00
   entries:
+  - path: .DS_Store
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-firstpass.csproj
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/HUD.png.meta
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Assets/HUD.png.meta
+    projectPath: Assets/HUD.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Fonts/AveriaSansLibre-Regular.ttf
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Fonts/AveriaSansLibre-Regular.ttf
+    projectPath: Fonts/AveriaSansLibre-Regular.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Fonts/CarterOne.ttf
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Fonts/CarterOne.ttf
+    projectPath: Fonts/CarterOne.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Fonts/Skranji-Regular.ttf
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Fonts/Skranji-Regular.ttf
+    projectPath: Fonts/Skranji-Regular.ttf
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library/assetDatabase3
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/assetDatabase3
     projectPath: Library/assetDatabase3
@@ -25,7 +73,25 @@ MonoBehaviour:
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/CrashedAssetImports.txt
     projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    status: 1
+    status: 5
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/expandedItems
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    status: 3
     staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/branches.yaml
@@ -36,6 +102,12 @@ MonoBehaviour:
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -50,4 +122,382 @@ MonoBehaviour:
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b
+    projectPath: Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b.info
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b.info
+    projectPath: Library/metadata/cf/cf0219769a3c54b45bfd5c948c217f6b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166
+    projectPath: Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166.info
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166.info
+    projectPath: Library/metadata/fb/fb07b51f3a63040e3a2156cf1d75c166.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Sounds/ASafeHaven(loop).wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/ASafeHaven(loop).wav
+    projectPath: Sounds/ASafeHaven(loop).wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sounds/Jingle_Success1.wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/Jingle_Success1.wav
+    projectPath: Sounds/Jingle_Success1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sounds/Jingle_Success4.wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/Jingle_Success4.wav
+    projectPath: Sounds/Jingle_Success4.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sounds/SFX_button1.wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/SFX_button1.wav
+    projectPath: Sounds/SFX_button1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sounds/SFX_wrong&malus4.wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/SFX_wrong&malus4.wav
+    projectPath: Sounds/SFX_wrong&malus4.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sounds/WonderKid_THEME1(loop).wav
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sounds/WonderKid_THEME1(loop).wav
+    projectPath: Sounds/WonderKid_THEME1(loop).wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/.DS_Store
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/.DS_Store
+    projectPath: Sprites/.DS_Store
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/asset2.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/asset2.png
+    projectPath: Sprites/asset2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Bandeiras/brasil.jpg
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Bandeiras/brasil.jpg
+    projectPath: Sprites/Bandeiras/brasil.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Bandeiras/eua.jpg
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Bandeiras/eua.jpg
+    projectPath: Sprites/Bandeiras/eua.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/barra.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/barra.png
+    projectPath: Sprites/barra.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/botoes.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/botoes.png
+    projectPath: Sprites/botoes.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/estrelas.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/estrelas.png
+    projectPath: Sprites/estrelas.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/faixa.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/faixa.png
+    projectPath: Sprites/faixa.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/bulbasaur.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/bulbasaur.png
+    projectPath: Sprites/Pokemon/bulbasaur.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/caterpie.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/caterpie.png
+    projectPath: Sprites/Pokemon/caterpie.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/charmander.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/charmander.png
+    projectPath: Sprites/Pokemon/charmander.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/pidgey.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/pidgey.png
+    projectPath: Sprites/Pokemon/pidgey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/rattata.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/rattata.png
+    projectPath: Sprites/Pokemon/rattata.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/squirtle.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/squirtle.png
+    projectPath: Sprites/Pokemon/squirtle.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/Pokemon/weedle.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/Pokemon/weedle.png
+    projectPath: Sprites/Pokemon/weedle.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Sprites/titulo.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Sprites/titulo.png
+    projectPath: Sprites/titulo.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-0a9dc61a3f9c945e781def1765b4569d
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-0a9dc61a3f9c945e781def1765b4569d
+    projectPath: Temp/UnityTempFile-0a9dc61a3f9c945e781def1765b4569d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-0f5eb90a948ca49fd8f97f2f0f469565
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-0f5eb90a948ca49fd8f97f2f0f469565
+    projectPath: Temp/UnityTempFile-0f5eb90a948ca49fd8f97f2f0f469565
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-1f1a69350e03f406ea667bf78dff292f
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-1f1a69350e03f406ea667bf78dff292f
+    projectPath: Temp/UnityTempFile-1f1a69350e03f406ea667bf78dff292f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-2886bc75e31de41cc8429e4041ce31f8
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-2886bc75e31de41cc8429e4041ce31f8
+    projectPath: Temp/UnityTempFile-2886bc75e31de41cc8429e4041ce31f8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-2edd3441b97d544a0804eba7c4e5b373
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-2edd3441b97d544a0804eba7c4e5b373
+    projectPath: Temp/UnityTempFile-2edd3441b97d544a0804eba7c4e5b373
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-35903c38804a74713993072d5532eff0
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-35903c38804a74713993072d5532eff0
+    projectPath: Temp/UnityTempFile-35903c38804a74713993072d5532eff0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-39968444b3e524658b184f76aee23a69
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-39968444b3e524658b184f76aee23a69
+    projectPath: Temp/UnityTempFile-39968444b3e524658b184f76aee23a69
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-446761cdfc761494f8fa21df7513d462
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-446761cdfc761494f8fa21df7513d462
+    projectPath: Temp/UnityTempFile-446761cdfc761494f8fa21df7513d462
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-447e5d1c2aae94dcba64324b0ff8ec3f
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-447e5d1c2aae94dcba64324b0ff8ec3f
+    projectPath: Temp/UnityTempFile-447e5d1c2aae94dcba64324b0ff8ec3f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-45d4f1ce050b2489990b58f1b9d1fbcb
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-45d4f1ce050b2489990b58f1b9d1fbcb
+    projectPath: Temp/UnityTempFile-45d4f1ce050b2489990b58f1b9d1fbcb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-47c305a6a31044b54ac19ca5ac100989
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-47c305a6a31044b54ac19ca5ac100989
+    projectPath: Temp/UnityTempFile-47c305a6a31044b54ac19ca5ac100989
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-4fce60e034f7e4d2ebc71c3c983479d5
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-4fce60e034f7e4d2ebc71c3c983479d5
+    projectPath: Temp/UnityTempFile-4fce60e034f7e4d2ebc71c3c983479d5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-6c2212cea241a4bc1a892fba754c25f1
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-6c2212cea241a4bc1a892fba754c25f1
+    projectPath: Temp/UnityTempFile-6c2212cea241a4bc1a892fba754c25f1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-749afe41f70ae49d6b08ca03f7d4e5a2
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-749afe41f70ae49d6b08ca03f7d4e5a2
+    projectPath: Temp/UnityTempFile-749afe41f70ae49d6b08ca03f7d4e5a2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-7cfa06386615449e191b2c964761f2bd
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-7cfa06386615449e191b2c964761f2bd
+    projectPath: Temp/UnityTempFile-7cfa06386615449e191b2c964761f2bd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-844e9df39cc5c43aeafc6b16ebe4ea5c
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-844e9df39cc5c43aeafc6b16ebe4ea5c
+    projectPath: Temp/UnityTempFile-844e9df39cc5c43aeafc6b16ebe4ea5c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-9a02f0be971a9431faaf08b8366c3bcc
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-9a02f0be971a9431faaf08b8366c3bcc
+    projectPath: Temp/UnityTempFile-9a02f0be971a9431faaf08b8366c3bcc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-9b437310f0b184571a301c6cbb2bc15b
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-9b437310f0b184571a301c6cbb2bc15b
+    projectPath: Temp/UnityTempFile-9b437310f0b184571a301c6cbb2bc15b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-9c47040fd994d440fbac7d186f4a9078
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-9c47040fd994d440fbac7d186f4a9078
+    projectPath: Temp/UnityTempFile-9c47040fd994d440fbac7d186f4a9078
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-a09bf8e65339c4a29a8ce407bd582d6d
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-a09bf8e65339c4a29a8ce407bd582d6d
+    projectPath: Temp/UnityTempFile-a09bf8e65339c4a29a8ce407bd582d6d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-b2b86f517203942f986ad5c602edfefe
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-b2b86f517203942f986ad5c602edfefe
+    projectPath: Temp/UnityTempFile-b2b86f517203942f986ad5c602edfefe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-bf6f2d8baa42f4649a067ff2a916daf0
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-bf6f2d8baa42f4649a067ff2a916daf0
+    projectPath: Temp/UnityTempFile-bf6f2d8baa42f4649a067ff2a916daf0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-c32bce2f9b8ed4c11ab9d50f74ab5d9e
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-c32bce2f9b8ed4c11ab9d50f74ab5d9e
+    projectPath: Temp/UnityTempFile-c32bce2f9b8ed4c11ab9d50f74ab5d9e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-c6884ba7656dd4b83b4e41fa5ab8af0a
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-c6884ba7656dd4b83b4e41fa5ab8af0a
+    projectPath: Temp/UnityTempFile-c6884ba7656dd4b83b4e41fa5ab8af0a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-dd3739d52d29d4764ab6759b6d355469
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-dd3739d52d29d4764ab6759b6d355469
+    projectPath: Temp/UnityTempFile-dd3739d52d29d4764ab6759b6d355469
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-e19abebb7e459462fbd9c653e4f7bab8
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-e19abebb7e459462fbd9c653e4f7bab8
+    projectPath: Temp/UnityTempFile-e19abebb7e459462fbd9c653e4f7bab8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-f305bbbc7f49441cd9c4dc16af20f86f
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-f305bbbc7f49441cd9c4dc16af20f86f
+    projectPath: Temp/UnityTempFile-f305bbbc7f49441cd9c4dc16af20f86f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-f917f15b12afa4de0b89f20e8b4b2fb1
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-f917f15b12afa4de0b89f20e8b4b2fb1
+    projectPath: Temp/UnityTempFile-f917f15b12afa4de0b89f20e8b4b2fb1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp/UnityTempFile-f98ef434dc7774990a1c1279f44abc7e
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Temp/UnityTempFile-f98ef434dc7774990a1c1279f44abc7e
+    projectPath: Temp/UnityTempFile-f98ef434dc7774990a1c1279f44abc7e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Texture/background.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Texture/background.png
+    projectPath: Texture/background.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Texture/background.png.meta
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Texture/background.png.meta
+    projectPath: Texture/background.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Texture/background1024.png
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Texture/background1024.png
+    projectPath: Texture/background1024.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Texture/background1024.png.meta
+    fullPath: /Users/hugomelo/Documents/Desenv/Quiz/Teste Times/Texture/background1024.png.meta
+    projectPath: Texture/background1024.png.meta
+    originalPath: 
+    status: 1
     staged: 0
